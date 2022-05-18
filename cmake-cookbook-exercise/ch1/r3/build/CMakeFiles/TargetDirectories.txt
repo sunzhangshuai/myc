@@ -1,0 +1,4 @@
+/Users/zhangshuai24/Documents/mystudy/myc/cmake-cookbook-exercise/ch1/r3/build/CMakeFiles/message.dir
+/Users/zhangshuai24/Documents/mystudy/myc/cmake-cookbook-exercise/ch1/r3/build/CMakeFiles/hello-world.dir
+/Users/zhangshuai24/Documents/mystudy/myc/cmake-cookbook-exercise/ch1/r3/build/CMakeFiles/edit_cache.dir
+/Users/zhangshuai24/Documents/mystudy/myc/cmake-cookbook-exercise/ch1/r3/build/CMakeFiles/rebuild_cache.dir

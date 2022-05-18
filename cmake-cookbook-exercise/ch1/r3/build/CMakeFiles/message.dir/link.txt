@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libmessage.dylib -install_name @rpath/libmessage.dylib CMakeFiles/message.dir/Message.cpp.o 
