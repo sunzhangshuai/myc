@@ -1,3 +1,0 @@
-/Users/zhangshuai24/Documents/mystudy/myc/cmake-cookbook-exercise/ch1/r1/build2/CMakeFiles/demo.dir
-/Users/zhangshuai24/Documents/mystudy/myc/cmake-cookbook-exercise/ch1/r1/build2/CMakeFiles/edit_cache.dir
-/Users/zhangshuai24/Documents/mystudy/myc/cmake-cookbook-exercise/ch1/r1/build2/CMakeFiles/rebuild_cache.dir
